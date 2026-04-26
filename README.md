@@ -1,39 +1,45 @@
-<h1 align="center">Hi 👋, I'm MD Rifat Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=withrifat&label=Profile%20views&color=0e75b6&style=flat" alt="withrifat" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/withrifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="withrifat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/withrifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="withrifat" height="30" width="40" /></a>
-<a href="https://fb.com/withrifat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="withrifat" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nobita_rifatbd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="withrifat" height="30" width="40" /></a>
+
+<img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/> <img align="right" height="95" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=withrifat&show_icons=true&locale=en" alt="withrifat" width="45%" style="margin-right: 10px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=withrifat" alt="streak" width="48%" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=withrifat" alt="withrifat" /></a> </p>
+𝖨’𝗆 [Rifat](url), a f𝗈𝗋𝗆𝖾𝗋 𝖣𝗂𝗀𝗂𝗍𝖺𝗅 𝖬𝖺𝗋𝗄𝖾𝗍𝖾𝗋 and a 𝗋𝖾𝗀𝗎𝗅𝖺𝗋 𝗀𝗎𝗒. 𝖨'𝗆 𝗇𝗈𝗍 𝗌𝗉𝖾𝖼𝗂𝖺𝗅 𝖻𝗎𝗍 𝖨'𝗆 𝖺 𝗁𝖺𝗋𝖽 𝗐𝗈𝗋𝗄𝖾𝗋 𝖺𝗇𝖽 𝖺 𝖿𝖺𝗌𝗍 𝗅𝖾𝖺𝗋𝗇𝖾𝗋 𝗅𝗂𝗄𝖾 𝗆𝗈𝗌𝗍 𝗈𝖿 𝗍𝗁𝖾 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋𝗌...
 
-<p align="left"> <a href="https://twitter.com/withrifat" target="blank"><img src="https://img.shields.io/twitter/follow/withrifat?logo=twitter&style=for-the-badge" alt="withrifat" /></a> </p>
+**Tech Stack**
 
+```
+Frontend        : React, Next.js, Tailwind  
+Backend         : Node.js, Express.js  
+Languages       : JavaScript  
+Database        : PostgreSQL, MongoDB  
+ORM             : Prisma  
+Version Control : Git, GitHub, Bitbucket  
+OS & Environment: Linux, Fedora 43, VSCode, Markdown, Notion  , windows
+```
 
-- 🔭 I’m currently working on Private Company **Sotial media side**
+**Familiar / Explored**
 
-- 🌱 I’m currently learning **Node js**
+```
+Frontend        : Sass, Bootstrap, Vue, Nuxt.js  
+Backend         : NestJS, Golang (Go)  
+Languages       : Python, JavaScript, Go  
+Database        : MySQL, SQLite  
+ORM             : TypeORM, SQLAlchemy  
+Tools & Workflow: Figma, Canva, Slack, Vim, Appwrite  
+Version Control : Bitbucket, CI/CD, GitHub Actions  
+OS & Environment: Linux, Fedora 43, Arch Linux, Ubuntu, Debian, NixOS, Windows, VSCode, Markdown, Notion  
+```
+**𝖢𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗟𝗲𝗮𝗋𝗇𝗂𝗇𝗀 / 𝗘𝖷𝗉𝗅𝗈𝗋𝗂𝗇𝗀:**
 
-- 👯 I’m looking to collaborate on **Making a social side**
+- 𝗕𝗮𝗰𝗸𝗲𝗇𝗱 / 𝗟𝗮𝗇𝗀𝗎𝗮𝗀𝗲𝘀: 𝖦𝗈
 
-- 🤝 I’m looking for help with **My new project**
+- 𝗜𝗻𝗳𝗋𝗮 / 𝗧𝗲𝘀𝘁𝗶𝗻𝗀: 𝖠𝗪𝗦, 𝖭𝗀𝗂𝗇𝗑, 𝖩𝖾𝗌𝗍
 
-- 👨‍💻 All of my projects are available at [That time not available](That time not available)
+###
 
-- 📝 I regularly write articles on [THat time not Available](THat time not Available)
+𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Classified.](#)
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=withrifat&show_icons=true&locale=en&layout=compact" alt="withrifat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=withrifat&show_icons=true&locale=en" alt="withrifat" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=withrifat&" alt="withrifat" /></p>
+𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Larning`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
