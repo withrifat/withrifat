@@ -41,7 +41,6 @@ OS & Environment: Linux, Fedora 43, Arch Linux, Ubuntu, Debian, NixOS, Windows, 
 ###
 
 𝖨’𝗏𝖾 𝗀𝗈𝗍 𝖺 𝖻𝗎𝗇𝖼𝗁 𝗈𝖿 𝗉𝗋𝗈𝗃𝖾𝖼𝗍𝗌, 𝖻𝗎𝗍 𝗆𝗒 𝖿𝖺𝗏𝗈𝗋𝗂𝗍𝖾 𝗂𝗌 𝗍𝗁𝖾 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 [Classified.](#)
-
-𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Larning`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀`
-[![](https://komarev.com/ghpvc/?username=withrifat&icon=0&color=0)](https://visitcount.itsvg.in)
+𝖧𝗈𝖻𝖻𝗂𝖾𝗌: `Larning`, `A𝗇𝗂𝗆𝖾`, `T𝗋𝖺𝗏𝖾𝗅`, `G𝖺𝗆𝗂𝗇𝗀` <br/>
+[![](https://komarev.com/ghpvc/?username=withrifat&icon=0&color=0)](https://visitcount.itsvg.in) <br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=withrifat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
