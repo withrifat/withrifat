@@ -1,5 +1,5 @@
 
-<img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/> <img align="right" height="95" src="https://media1.tenor.com/m/5JaxuOcCebQAAAAd/cartethyia-swordplay.gif" />
+<img src="https://ghchart.rshah.org/codebyrashel" alt="GitHub Contribution Graph" width="600"/> <img align="right" height="95" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNqY3JpNnQwZnBxbnd0MzN2aWg5N3JyenAyeWNyeWR0ZWo1Z2czaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ALu1Nuho2eXOyoGJ8u/giphy.gif" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=withrifat&show_icons=true&locale=en" alt="withrifat" width="45%" style="margin-right: 10px;" />
