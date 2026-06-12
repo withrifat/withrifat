@@ -25,11 +25,11 @@ I'm a former **Digital Marketer** turned **Full-Stack Developer** — not specia
 <tr>
 <td width="60%">
 
-### ✨ [Aura](https://aura-client.vercel.app/) — A Modern Social Media Platform
+### ✨ [Aura](https://www.bpicampus.social/) — A Modern Social Media Platform
 
 A full-featured social media application built from the ground up. Aura brings together real-time interactions, a clean UI, and performant architecture to create a compelling social experience.
 
-**→ [Live Demo](https://aura-client.vercel.app/)**
+**→ [Live Demo](https://www.bpicampus.social/)**
 
 </td>
 <td width="40%" align="center">
