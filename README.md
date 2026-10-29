@@ -69,5 +69,5 @@ const explored = {
 
 [![Profile Views](https://komarev.com/ghpvc/?username=withrifat&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/withrifat)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=withrifat&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/withrifat)
+![Languages used across my repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=withrifat&theme=tokyonight)
 </div>
